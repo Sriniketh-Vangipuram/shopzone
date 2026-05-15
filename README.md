@@ -18,7 +18,7 @@ This project was developed as part of Week 6 Internship Sprint focusing on:
 
 ## 🌐 Live Demo
 
-(Add Vercel Link Here)
+https://shopzone-silk-seven.vercel.app/shop
 
 ---
 
