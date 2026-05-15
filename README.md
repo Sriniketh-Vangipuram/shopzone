@@ -1,6 +1,6 @@
 # ShopZone E-Commerce SPA
 
-## 🚀 Project Overview
+## Project Overview
 
 ShopZone is a modern E-Commerce Single Page Application built with React, TypeScript, Tailwind CSS, React Router, and Context API.
 
@@ -24,17 +24,17 @@ https://shopzone-silk-seven.vercel.app/shop
 
 ## 📸 Features
 
-### ✅ Routing
+### Routing
 - Multi-page SPA using React Router
 - Dynamic Product Routes
 - Protected Checkout Route
 
-### ✅ State Management
+### State Management
 - Global Cart using Context API
 - Persistent cart with localStorage
 - Persistent authentication state
 
-### ✅ Ecommerce Features
+### Ecommerce Features
 - Product listing from API
 - Product details page
 - Add to cart
@@ -42,7 +42,7 @@ https://shopzone-silk-seven.vercel.app/shop
 - Cart total calculation
 - Search products
 
-### ✅ UI/UX
+### UI/UX
 - Responsive Design
 - Skeleton loading
 - Toast notifications
