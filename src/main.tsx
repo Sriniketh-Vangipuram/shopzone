@@ -1,0 +1,25 @@
+import React from "react";
+
+import ReactDOM from "react-dom/client";
+
+import App from "./App";
+
+import "./index.css";
+
+import { CartProvider } from "./context/CartProvider";
+
+import { AuthProvider } from "./context/AuthProvider";
+import { Toaster } from "react-hot-toast";
+
+ReactDOM.createRoot(
+  document.getElementById("root")!
+).render(
+  <React.StrictMode>
+    <AuthProvider>
+      <CartProvider>
+        <Toaster position="top-right"/>
+        <App />
+      </CartProvider>
+    </AuthProvider>
+  </React.StrictMode>
+);
